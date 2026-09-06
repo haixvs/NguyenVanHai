@@ -47,6 +47,6 @@ public class Product {
     // Hiển thị thông tin sản phẩm
     @Override
     public String toString() {
-        return "id=" + id + ", name=" + name + ", price=" + price;
+        return "id= " + id + ", name= " + name + ", price= " + price;
     }
 }
